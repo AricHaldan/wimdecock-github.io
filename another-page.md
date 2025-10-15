@@ -10,6 +10,6 @@ _yay_
 
 ### Large image
 
-![Elia](https://yt3.googleusercontent.com/1IEfG8iV2ocE7wH3zBBStk6pCo1L_kwDXdp0zJPKXctH_INFlLWJQBFpZyITCdEmjDX1JQkxu0Q=s900-c-k-c0x00ffffff-no-rj)
+![Wedding](https://drive.google.com/drive/folders/1fH_M2XlgcBzXmI1ilpGdxd6SIx5XhZFR?dmr=1&ec=wgc-drive-hero-goto)
 
 [back](./)

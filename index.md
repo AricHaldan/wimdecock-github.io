@@ -11,3 +11,7 @@ Ik ben opgegroeid in een wereld waar liberalisme en zijn waarden bijna vanzelfsp
 
 Tegelijkertijd zie ik ook in dat globalisme en de vrije markt tot veel problemen heeft gezorgd en dat onze democratien lijden onder verouderde structuren, partijen die hun verantwoordelijkheid van zich afschuiven en opportunistisch populisme. Maar ik blijf het geloof in een liberale toekomst behouden, niet alleen omdat ik denk dat wij als mensen creatief genoege zijn om oplossingen te verzinnen, maar vooral ook omdat ik kan zien dat we al een heel lange weg hebben afgelegd en dat de maatschappij van nu vol is van oplossingen voor de problemen van het verleden. Als we nu onze waarden zouden verzaken, dan belanden we gewoon weer in de problemen van onze voorouders, maar als we verder bouwen op hun werk, dan kunnen we aan een betere toekomst bouwen voor onze kinderen.
 
+
+```
+The final element.
+```

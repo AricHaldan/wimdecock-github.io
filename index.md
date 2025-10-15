@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<img src="assets\DSC07924-2.jpg" alt="Foto Trouw" width="200"> welkom op mijn pagina, waar ik tracht mijn visie uit te zetten op de wereld waarin wij leven.
+<img src="assets\DSC07924-2.jpg" alt="Foto Trouw" width="200"> 
+welkom op mijn pagina, waar ik tracht mijn visie uit te zetten op de wereld waarin wij leven.
 
 ## Mijn Politieke Visie
 

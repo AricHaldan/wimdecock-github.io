@@ -4,14 +4,10 @@ title: Artikels
 description: Een verzameling van mijn schrijfsels
 ---
 
-<ul class="articles-list">
-{% raw %}{% assign sorted = site.articles | sort: 'date' | reverse %}
-{% for item in sorted %}
-  <li>
-    <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p class="date">{{ item.date | date: "%B %-d, %Y" }}</p>
-    <p>{{ item.excerpt | strip_html | truncatewords: 40 }}</p>
-  </li>
+{% raw %}{% for post in site.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p>{{ post.date | date: "%B %-d, %Y" }}</p>
+  <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
 {% endfor %}{% endraw %}
-</ul>
+
 [back](./)

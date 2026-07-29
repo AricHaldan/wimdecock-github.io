@@ -7,3 +7,14 @@ collections:
   articles:
     output: true
     permalink: /articles/:path/
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "post"   # or "default" — whatever layout you want per-item

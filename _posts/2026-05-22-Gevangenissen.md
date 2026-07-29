@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Gevangenissen"
 date: 2026-05-22
 ---

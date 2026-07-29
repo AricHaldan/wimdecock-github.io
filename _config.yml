@@ -3,3 +3,7 @@ description: Mijn zoektocht naar een toekomst voor vrijheid in een tijd van pess
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/

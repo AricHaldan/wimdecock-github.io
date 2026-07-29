@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Artikels
 description: Een verzameling van mijn schrijfsels
 ---

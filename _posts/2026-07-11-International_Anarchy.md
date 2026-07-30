@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: "On the collapse of international order"
-date: 2026-06-28
+date: 2026-07-11
 ---
 # On the collapse of international order
 For most of my lifetime, war seemed like a distant event and mostly a thing of the past, but sadly it seems like we are once again living in an age of turmoil. Wars and conflicts have seemingly become more common and have also come closer to home than what most of us Europeans were used to. However, it does not escape me that the seeds of these conflicts were sewn long before. The cracks in our vision of a peaceful, liberal future were there even before I was born and have silently grown behind the scenes. International order as we knew it was based on US hegemony, which was itself supported by a form of western imperialism that we collectively turned a blind eye to for a long time. We prided ourselves on having built a system of international rules meant to keep the peace between nations and in some cases, such as the first gulf war, I believe we actually did defend such rules. But in many other cases, the rules and values that we claimed to champion were not enforced upon ourselves or our allies. And so, when Russia attacked Ukraine and we called on the world to help us defend against this aggressor who clearly violated international rules, we were surprised by the silence and indifference that we received from a lot of the world. But when we look back on our past candidly, then I think we can see the reasons why. For decades we have supported and never questioned US incursions into the middle-east, French support for dictatorial regimes in Africa and the colonial, sometimes genocidal practices of the Israel state we helped create. We always believed we were fighting against terrorists and evil regimes and never really questioned our own methods.
